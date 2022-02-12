@@ -5,20 +5,12 @@
     <link>https://pkhorrami4.github.io/author/olga-simek/</link>
       <atom:link href="https://pkhorrami4.github.io/author/olga-simek/index.xml" rel="self" type="application/rss+xml" />
     <description>Olga Simek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pkhorrami4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Olga Simek</title>
       <link>https://pkhorrami4.github.io/author/olga-simek/</link>
     </image>
-    
-    <item>
-      <title>Meta-Learning and Self-Supervised Pretraining for Real World Image Translation</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/rugina-2021-meta/</link>
-      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/rugina-2021-meta/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Adapting Deep Learning Models to New Meteorological Contexts Using Transfer Learning</title>

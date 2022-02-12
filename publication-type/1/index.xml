@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>Instance Segmentation of Neuronal Nuclei Leveraging Domain Adaptation</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/brady-2021-instance/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/brady-2021-instance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Learning-Based Nuclei Segmentation of Cleared Brain Tissue</title>
       <link>https://pkhorrami4.github.io/publication/khorrami-2019-deep/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -45,42 +37,10 @@
     </item>
     
     <item>
-      <title>Deep Learning-Based Nuclei Segmentation of Cleared Brain Tissue</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2019-deep/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2019-deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A New Data Corpus to Promote More Complete Autonomous Machine Learning Pipelines</title>
       <link>https://pkhorrami4.github.io/publication/lippmann-2018-new/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://pkhorrami4.github.io/publication/lippmann-2018-new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A New Data Corpus to Promote More Complete Autonomous Machine Learning Pipelines</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/lippmann-2018-new/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/lippmann-2018-new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast generation for convolutional autoregressive models</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/ramachandran-2017-fast/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/ramachandran-2017-fast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting depression using vocal, facial and semantic communication cues</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/williamson-2016-detecting/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/williamson-2016-detecting/</guid>
       <description></description>
     </item>
     
@@ -101,26 +61,10 @@
     </item>
     
     <item>
-      <title>How deep neural networks can improve emotion recognition on video data</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2016-deep/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2016-deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multi-modal audio, video and physiological sensor learning for continuous emotion prediction</title>
       <link>https://pkhorrami4.github.io/publication/brady-2016-multi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://pkhorrami4.github.io/publication/brady-2016-multi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-modal audio, video and physiological sensor learning for continuous emotion prediction</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/brady-2016-multi/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/brady-2016-multi/</guid>
       <description></description>
     </item>
     
@@ -133,26 +77,10 @@
     </item>
     
     <item>
-      <title>Do deep neural networks learn facial action units when doing expression recognition?</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2015-deep/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2015-deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A System for Monitoring the Engagement of Remote Online Students Using Eye Gaze Estimation</title>
       <link>https://pkhorrami4.github.io/publication/khorrami-2014-system/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://pkhorrami4.github.io/publication/khorrami-2014-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A System for Monitoring the Engagement of Remote Online Students Using Eye Gaze Estimation</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2014-system/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2014-system/</guid>
       <description></description>
     </item>
     
@@ -165,26 +93,10 @@
     </item>
     
     <item>
-      <title>Foreground Object Detection in Highly Dynamic Scenes Using Saliency</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/lin-2014-foreground/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/lin-2014-foreground/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multiple Animal Species Detection Using Robust Principal Component Analysis and Large Displacement Optical Flow</title>
       <link>https://pkhorrami4.github.io/publication/khorrami-2012-multiple/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://pkhorrami4.github.io/publication/khorrami-2012-multiple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiple Animal Species Detection Using Robust Principal Component Analysis and Large Displacement Optical Flow</title>
-      <link>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2012-multiple/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2012-multiple/</guid>
       <description></description>
     </item>
     
