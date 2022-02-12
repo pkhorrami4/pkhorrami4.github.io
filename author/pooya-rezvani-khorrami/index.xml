@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pooya Rezvani Khorrami | Pooya Khorrami</title>
+    <link>https://pkhorrami4.github.io/author/pooya-rezvani-khorrami/</link>
+      <atom:link href="https://pkhorrami4.github.io/author/pooya-rezvani-khorrami/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pooya Rezvani Khorrami</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pkhorrami4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pooya Rezvani Khorrami</title>
+      <link>https://pkhorrami4.github.io/author/pooya-rezvani-khorrami/</link>
+    </image>
+    
+    <item>
+      <title>How deep learning can help emotion recognition</title>
+      <link>https://pkhorrami4.github.io/publication/khorrami-2017-deep/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pkhorrami4.github.io/publication/khorrami-2017-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How deep learning can help emotion recognition</title>
+      <link>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2017-deep/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2017-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

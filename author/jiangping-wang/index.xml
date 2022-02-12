@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiangping Wang | Pooya Khorrami</title>
+    <link>https://pkhorrami4.github.io/author/jiangping-wang/</link>
+      <atom:link href="https://pkhorrami4.github.io/author/jiangping-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiangping Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pkhorrami4.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jiangping Wang</title>
+      <link>https://pkhorrami4.github.io/author/jiangping-wang/</link>
+    </image>
+    
+    <item>
+      <title>Foreground Object Detection in Highly Dynamic Scenes Using Saliency</title>
+      <link>https://pkhorrami4.github.io/publication/lin-2014-foreground/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pkhorrami4.github.io/publication/lin-2014-foreground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foreground Object Detection in Highly Dynamic Scenes Using Saliency</title>
+      <link>https://pkhorrami4.github.io/publication/temp/content/publication/lin-2014-foreground/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/lin-2014-foreground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Animal Species Detection Using Robust Principal Component Analysis and Large Displacement Optical Flow</title>
+      <link>https://pkhorrami4.github.io/publication/khorrami-2012-multiple/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pkhorrami4.github.io/publication/khorrami-2012-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Animal Species Detection Using Robust Principal Component Analysis and Large Displacement Optical Flow</title>
+      <link>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2012-multiple/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://pkhorrami4.github.io/publication/temp/content/publication/khorrami-2012-multiple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
