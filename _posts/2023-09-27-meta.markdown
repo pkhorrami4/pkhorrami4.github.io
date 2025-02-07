@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Meta-Learning and Self-Supervised Pretraining for Storm Event Imagery Translation"
+categories: research
+authors: "Ileana Rugina, Rumen Dangovski, Mark Veillette, <strong>Pooya Khorrami</strong>, Brian Cheung, Olga Simek, Marin Soljacic"
+venue: "IEEE High Performance Extreme Computing Conference (HPEC)"
+paper: "https://ieeexplore.ieee.org/iel7/10363430/10363422/10363448.pdf"
+---

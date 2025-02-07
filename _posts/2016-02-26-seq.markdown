@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Seq-nms for video object detection"
+categories: research
+authors: "Wei Han, <strong>Pooya Khorrami</strong>, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S Huang"
+venue: "arXiv"
+paper: "https://arxiv.org/pdf/1602.08465"
+---

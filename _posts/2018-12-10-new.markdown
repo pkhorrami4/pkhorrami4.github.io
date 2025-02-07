@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A New Data Corpus to Promote More Complete Autonomous Machine Learning Pipelines"
+categories: research
+authors: "Richard Lippmann, Swaroop Vattam, <strong>Pooya Khorrami</strong>, Cagri Dagli"
+venue: "NeurIPS Workshop on Challenges in Machine Learning (CiML)"
+website: "https://sites.google.com/chalearn.org/ciml/ciml2018"
+---

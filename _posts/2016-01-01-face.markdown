@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Face Processing and Applications to Distance Learning"
+categories: research
+authors: "Vuong Le, <strong>Pooya Khorrami</strong>, Usman Tariq, Hao Tang, Thomas Huang"
+venue: "World Scientific"
+book: "https://www.worldscientific.com/worldscibooks/10.1142/9866?srsltid=AfmBOooZi7-cEA40r70Kgb3siedXUpXv8UeBOgrAM6bDg6x1efMYjSUH#t=aboutBook"
+---

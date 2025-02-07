@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "An analysis of unsupervised pre-training in light of recent advances"
+categories: research
+authors: "Tom Le Paine, <strong>Pooya Khorrami</strong>, Wei Han, Thomas S Huang"
+venue: "ICLR Workshop"
+paper: "https://arxiv.org/pdf/1412.6597"
+---

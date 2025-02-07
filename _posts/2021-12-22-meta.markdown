@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Meta-Learning and Self-Supervised Pretraining for Real World Image Translation"
+categories: research
+authors: "Ileana Rugina, Rumen Dangovski, Mark Veillette, <strong>Pooya Khorrami</strong>, Brian Cheung, Olga Simek, Marin Soljačić"
+venue: "arXiv"
+paper: "https://arxiv.org/pdf/2112.11929"
+---

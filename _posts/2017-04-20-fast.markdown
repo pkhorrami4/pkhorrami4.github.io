@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fast generation for convolutional autoregressive models"
+categories: research
+authors: "Prajit Ramachandran, Tom Le Paine, <strong>Pooya Khorrami</strong>, Mohammad Babaeizadeh, Shiyu Chang, Yang Zhang, Mark A Hasegawa-Johnson, Roy H Campbell, Thomas S Huang"
+venue: "ICLR Workshop"
+paper: "https://arxiv.org/pdf/1704.06001"
+---

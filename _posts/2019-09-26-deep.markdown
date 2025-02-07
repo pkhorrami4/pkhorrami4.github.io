@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Deep learning-based nuclei segmentation of cleared brain tissue"
+categories: research
+authors: "<strong>Pooya Khorrami</strong>, Kevin Brady, Mark Hernandez, Lars Gjesteby, Sara N Burke, Damon G Lamb, Matthew A Melton, Kevin J Otto, Laura J Brattain"
+venue: "IEEE High Performance Extreme Computing Conference (HPEC)"
+paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8916435"
+---

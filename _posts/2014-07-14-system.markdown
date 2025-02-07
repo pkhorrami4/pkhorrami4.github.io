@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A System for Monitoring the Engagement of Remote Online Students Using Eye Gaze Estimation"
+categories: research
+authors: "<strong>Pooya Khorrami</strong>, Vuong Le, John C Hart, Thomas S Huang"
+venue: "ICME Workshop on Emerging Multimedia Systems and Applications (EMSA)"
+paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6890573"
+---

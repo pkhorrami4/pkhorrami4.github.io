@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "How deep neural networks can improve emotion recognition on video data"
+categories: research
+authors: "<strong>Pooya Khorrami</strong>, Tom Le Paine, Kevin Brady, Charlie Dagli, Thomas S Huang"
+venue: "International Conference on Image Processing (ICIP)"
+paper: "https://arxiv.org/pdf/1602.07377"
+---

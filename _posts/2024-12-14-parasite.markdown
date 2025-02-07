@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Parasite Networks: Transfer Learning in Resource-Constrained Domains"
+categories: research
+authors: "Andrew Alini, Douglas Sturim, Kevin Brady, <strong>Pooya Khorrami</strong>"
+venue: "NeurIPS Workshop on Fine-Tuning in Modern Machine Learning: Principles and Scalability"
+paper: "https://openreview.net/pdf?id=wjivXGK7Om"
+---

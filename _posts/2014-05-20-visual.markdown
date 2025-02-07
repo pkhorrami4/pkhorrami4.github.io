@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Visual Media: History and Perspectives"
+categories: research
+authors: "Thomas S. Huang, Vuong Le, Thomas Paine, <strong>Pooya Khorrami</strong>, Usman Tariq"
+venue: "IEEE Multimedia"
+paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6818960"
+---

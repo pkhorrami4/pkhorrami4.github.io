@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Multiple Animal Species Detection Using Robust Principal Component Analysis and Large Displacement Optical Flow"
+categories: research
+authors: "<strong>Pooya Khorrami</strong>, Jiangping Wang, Thomas S. Huang"
+venue: "ICPR Workshop on Visual Observation and Analysis of Animal and Insect Behavior (VAIB)"
+paper: "https://homepages.inf.ed.ac.uk/rbf/VAIB12PAPERS/khorrami.pdf"
+---

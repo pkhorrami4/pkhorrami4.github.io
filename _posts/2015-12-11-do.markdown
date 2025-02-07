@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Do deep neural networks learn facial action units when doing expression recognition?"
+categories: research
+authors: "<strong>Pooya Khorrami</strong>, Thomas Paine, Thomas Huang"
+venue: "ICCV Workshop on Computer Vision for Affective Computing (CV4AC)"
+paper: "https://arxiv.org/pdf/1510.02969"
+---
