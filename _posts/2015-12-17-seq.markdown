@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Seq-nms for video object detection"
+image: "/images/2015_seq.png"
 categories: research
 authors: "Wei Han, <strong>Pooya Khorrami</strong>, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S Huang"
-venue: "arXiv"
+venue: "ICCV ImageNet and MS COCO Visual Recognition Challenges Joint Workshop"
 paper: "https://arxiv.org/pdf/1602.08465"
 ---

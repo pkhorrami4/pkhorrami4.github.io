@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fast wavenet generation algorithm"
+image: "/images/2016_fast.png"
 categories: research
 authors: "Tom Le Paine, <strong>Pooya Khorrami</strong>, Shiyu Chang, Yang Zhang, Prajit Ramachandran, Mark A Hasegawa-Johnson, Thomas S Huang"
 venue: "arXiv"

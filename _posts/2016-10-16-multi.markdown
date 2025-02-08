@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Multi-modal audio, video and physiological sensor learning for continuous emotion prediction"
+image: "/images/2016_multi.png"
 categories: research
 authors: "Kevin Brady, Youngjune Gwon, <strong>Pooya Khorrami</strong>, Elizabeth Godoy, William Campbell, Charlie Dagli, Thomas S Huang"
 venue: "6th International Workshop on Audio/Visual Emotion Challenge"

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Multimedia Classification"
+image: "/images/2014_multimedia_crop.png"
 categories: research
 authors: "Shiyu Chang, Wei Han, Xianming Liu, Ning Xu, <strong>Pooya Khorrami</strong>, Thomas S. Huang"
 venue: "Data Classification: Algorithms and Applications"

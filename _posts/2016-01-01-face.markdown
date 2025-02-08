@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Face Processing and Applications to Distance Learning"
+image: "/images/2016_face_crop.png"
 categories: research
 authors: "Vuong Le, <strong>Pooya Khorrami</strong>, Usman Tariq, Hao Tang, Thomas Huang"
 venue: "World Scientific"

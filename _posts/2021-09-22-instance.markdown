@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Instance segmentation of neuronal nuclei leveraging domain adaptation"
+image: "/images/2021_instance.png"
 categories: research
 authors: "Kevin Brady, <strong>Pooya Khorrami</strong>, Lars Gjesteby, Laura Brattain"
 venue: "IEEE High Performance Extreme Computing Conference (HPEC)"
