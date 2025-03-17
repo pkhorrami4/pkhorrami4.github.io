@@ -5,5 +5,5 @@ image: "/images/2021_adapting.png"
 categories: research
 authors: "<strong>Pooya Khorrami</strong>, Olga Simek, Brian Cheung, Mark Veillette, Rumen Dangovski, Ileana Rugina, Marin Soljacic, Pulkit Agrawal"
 venue: "IEEE International Conference on Big Data (Big Data)"
-paper: "https://ieeexplore.ieee.org/abstract/document/9671451"
+paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9671451"
 ---
