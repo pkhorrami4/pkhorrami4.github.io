@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "LoRAX: LoRA eXpandable Networks for Continual Synthetic Image Attribution"
+image: "/images/2024_lorax.png"
+categories: research
+authors: "Danielle Sullivan-Pao, Nicole Tian, <strong>Pooya Khorrami</strong>"
+venue: "BMVC Workshop on Media Authenticity in the Age of Artificial Intelligence (MAAAI)"
+paper: "https://arxiv.org/pdf/2504.08149"
+---
