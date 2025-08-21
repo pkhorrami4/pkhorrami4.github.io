@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Emergent Capability in Audio Deepfake Detection"
+image: "/images/2025_emergent.png"
+categories: research
+authors: "Yunbin Deng, Alec Laprevotte, Robert Dunn, <strong>Pooya Khorrami</strong>, Charlie Dagli, Pedro Torres-Carrasquillo"
+venue: "13th International Workshop on Biometrics and Forensics (IWBF)"
+paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11113428"
+---
