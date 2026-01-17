@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "From Snow to Rain: Evaluating Robustness, Calibration, and Complexity of Model-Based Robust Training"
+image: "/images/2025_from.png"
+categories: research
+authors: "Josué Martínez-Martínez, Olivia Brown, Giselle Zeno, <strong>Pooya Khorrami</strong>, Rajmonda Caceres"
+venue: "LatinX in AI Research Workshop at NeurIPS"
+paper: "https://arxiv.org/pdf/2601.09153"
+---
