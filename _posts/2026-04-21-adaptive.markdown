@@ -5,5 +5,5 @@ image: "/images/2026_adaptive.png"
 categories: research
 authors: "Bengt J. Borgström and <strong>Pooya Khorrami</strong>"
 venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
-paper: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11464455"
+paper: "https://ieeexplore.ieee.org/abstract/document/11464455"
 ---
