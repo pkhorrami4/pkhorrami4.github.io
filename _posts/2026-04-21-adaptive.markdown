@@ -3,7 +3,7 @@ layout: post
 title:  "Adaptive Score Calibration for Content-Based Image Retrieval"
 image: "/images/2026_adaptive.png"
 categories: research
-authors: "Bengt J. Borgström and <strong>Pooya Khorrami</strong>"
+authors: "Bengt J Borgström and <strong>Pooya Khorrami</strong>"
 venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 paper: "https://ieeexplore.ieee.org/abstract/document/11464455"
 ---
